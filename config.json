@@ -1,0 +1,69 @@
+{
+  "name": "Oskar Boesch Portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Oskar Boesch - Neuroscience Engineer",
+  "author": {
+    "name": "Oskar Boesch",
+    "email": "your.email@example.com",
+    "url": "https://yourwebsite.com"
+  },
+  "keywords": [
+    "portfolio",
+    "neuroscience",
+    "engineer",
+    "EPFL",
+    "research",
+    "development"
+  ],
+  "palette": {
+    "primary_bg": "#F0EEE2",
+    "dark_bg": "#111216",
+    "light_accent": "#E8EEEE",
+    "burgundy": "#65280B",
+    "salmon": "#FF7E81",
+    "peach": "#F09D5B"
+  },
+  "sections": {
+    "hero": {
+      "title": "Oskar Boesch",
+      "subtitle": "Neuroscience Engineer | EPFL Graduate",
+      "tagline": "Bridging neuroscience, technology, and creativity"
+    },
+    "projects": [
+      {
+        "title": "Neuroscience Research",
+        "category": "research",
+        "icon": "brain",
+        "description": "Advanced studies in neural mechanisms and brain imaging analysis",
+        "link": "#"
+      },
+      {
+        "title": "Software Development",
+        "category": "development",
+        "icon": "code",
+        "description": "Full-stack applications and tools for data analysis",
+        "link": "#"
+      },
+      {
+        "title": "Music Production",
+        "category": "music",
+        "icon": "music",
+        "description": "Original compositions and audio production",
+        "link": "#"
+      },
+      {
+        "title": "Photography",
+        "category": "photography",
+        "icon": "camera",
+        "description": "Visual storytelling through photography",
+        "link": "#"
+      }
+    ]
+  },
+  "social": {
+    "email": "your.email@example.com",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourprofile",
+    "twitter": "https://twitter.com/yourprofile"
+  }
+}
