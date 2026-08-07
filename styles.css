@@ -320,7 +320,7 @@ body {
 /* Projects Section */
 .projects {
     padding: 100px 20px;
-    background-color: var(--light-accent);
+    background-color: var(--dark-accent);
 }
 
 .projects h2 {
@@ -485,7 +485,7 @@ body {
 /* CV Section */
 .cv-section {
     padding: 100px 20px;
-    background-color: var(--dark-accent);
+    background-color: var(--light-accent);
 }
 
 .cv-section h2 {
